@@ -4,13 +4,7 @@ FTP server lokal untuk Termux Android — anonymous access, tanpa username/passw
 
 ## Download
 
-```bash
-# Clone repo
-git clone https://github.com/superdecrypt-dev/ftp_termux.git
-cd ftp_termux
-```
-
-Atau download langsung file `ftp_termux.py`:
+Download file `ftp_termux.py`:
 ```
 https://raw.githubusercontent.com/superdecrypt-dev/ftp_termux/main/ftp_termux.py
 ```
